@@ -13,3 +13,4 @@ This API can be tested either manually or automatically.
 * Manual Testing : Swagger has been integrated inside this application. And to test this is the URL : "http://localhost:15797/swagger/index.html".
 * AutomationTesting : There is an automation project which would call this service via http protocol which is hosted locally and would return success response for                           valid input and validation errors for not valid input.
                       Below is the automation repo URL
+                      https://github.com/jhansiserla/CreditCardValidationServiceAutomation.git
